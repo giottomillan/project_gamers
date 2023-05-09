@@ -1,4 +1,4 @@
-![play](C:\project_gamers\Images\play.jpg)
+![play](Images/play.png)
 
 
 
@@ -45,4 +45,4 @@ Para ejecutar este proyecto, se requiere tener instalado el entorno de desarroll
 
 Se aceptan contribuciones para mejorar este proyecto. Si deseas colaborar, por favor envía tus propuestas y mejoras mediante pull requests.
 
-![game](C:\project_gamers\Images\game.jpg)
+![game](Images/game.png)
