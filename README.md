@@ -1,3 +1,7 @@
+![play](C:\Users\GAMM\Documents\BootCamp\Proyecto\project_gamers\Images)
+
+
+
 ## Proyecto de Gamers
 
 Este proyecto tiene como objetivo recolectar datos relacionados con la industria de los videojuegos, específicamente en plataformas como YouTube y Twitch, así como obtener información sobre los juegos más vendidos y noticias relevantes de última hora. Para lograr esto, se utilizaron técnicas de web scraping, intentos de llamadas a la API y descarga de documentos.
@@ -40,3 +44,5 @@ Para ejecutar este proyecto, se requiere tener instalado el entorno de desarroll
 ## Contribución
 
 Se aceptan contribuciones para mejorar este proyecto. Si deseas colaborar, por favor envía tus propuestas y mejoras mediante pull requests.
+
+![game](C:\Users\GAMM\Documents\BootCamp\Proyecto\project_gamers\Images)
